@@ -1,0 +1,6 @@
+Hello, Git and GitHub!
+git init
+git add hello.txt
+git commit -m "Add hello.txt with greeting"
+git remote add origin <https://github.com/Charnikins/LocalRepoProject.git>
+git push -u origin main
